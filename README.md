@@ -1,7 +1,7 @@
 # 甦機装:e1ght3【煌蠍の籠手】
 <br>
 <br>
-Click here for the English version
+ [Click here for the English version](https://github.com/e1ght3/Girtablulu/blob/main/Readme_en.md)
 <br>
 ▼共有フォルダURL▼<br>
 ＊開発中につきありません。<br>
