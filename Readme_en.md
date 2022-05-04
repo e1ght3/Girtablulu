@@ -1,4 +1,4 @@
-# 甦機装:e1ght3【煌蠍の籠手】
+# Re-legacyWeapon：e1ght3【Girtablulu】
 <br>
 <br>
 <br>
@@ -26,36 +26,36 @@ This text may be revised from time to time and the interpretation of the latest 
 <br>
 <br>
 *Prohibitions*<br>
-個人での版権管理が難しいことを踏まえて、製作者として以下の行為を禁止します。<br>
-・３Dデータのエクスポート(用途・理由を問わず全て不可)<br>
-・このアイテムをあらゆる媒体やサービスで販売・再配布する行為(neos内での再配布・販売も含む)<br>
-・neos以外でのあらゆる媒体・サービス・アプリ・ゲームエンジン等で使用する行為<br>
-・このアイテムが公式作品であるかのように記載・紹介すること<br>
-・このアイテムの作者や権利者を偽ったり誤解させる全ての行為<br>
-・このアイテムを使ったあらゆる利益を得る行為<br>
+Given the difficulty of managing copyrights on an individual basis, the following actions are prohibited as a producer.<br>
+・Export of 3D data (all uses and reasons are not acceptable)<br>
+・Selling or redistributing this item in any media or service (including redistribution or sale within neos)<br>
+・Use in any media, service, application, game engine, etc. other than neos<br>
+・Describing or presenting this item as if it were an official work<br>
+・All acts that falsely impersonate or mislead the author or rights holder of this item.<br>
+・Any act of profiteering with this item<br>
 <br>
-問題ないと思われる例(上記禁止行為の回避を前提とします)<br>
-・ブログを含むサイト上での紹介<br>
-・動画・配信中の紹介・使用<br>
-・偶発的に配信や動画にアイテムが映りこんでしまう事<br>
-・偶発的に紙面を含む媒体にアイテムが映りこんでしまう事<br>
+Examples that may not be problematic (assuming avoidance of the above prohibited activities)<br>
+・On sites, including blogs<br>
+・Introduction and use in video and distribution<br>
+・Accidentally having an item appear in a streaming or video.<br>
+・The accidental reflection of an item in a medium, including paper.<br>
 <br>
-問い合わせ想定例<br>
-・neos内でこのアイテムを解析・改造したい<br>
-→自己責任において可とします。<br>
-　３Dモデルをそのまま流用する場合は公開しないでください。<br>
-　３Dモデル部分を全て差し替えて別のアイテムとして配布する分には全く問題ありません。<br>
-　あくまで３Dモデルの版権だけが問題であって、LogiXについては自由に再利用していただいて問題ありません。<br>
+Example of possible inquiries<br>
+・I want to analyze and modify this item within neos.<br>
+→Acceptable at your own risk.<br>
+　If the 3D model is to be appropriated as is, do not publish it.<br>
+　It is perfectly acceptable to replace the entire 3D model part and distribute it as a separate item.<br>
+　The only issue is the copyright of the 3D model, and LogiX is free to reuse it.<br>
 <br>
-・SNS・ブログ・Youtubeなどで配信・紹介したい<br>
-→収益化をしていなければ問題ないと判断します。<br>
-　ただし、あくまでファンメイドアイテムであるため<br>
-　公式の作品であるかのような紹介は絶対にしないでください。<br>
+・I want to distribute or introduce on SNS, blogs, Youtube, etc.<br>
+→If you are not monetizing the product, I will assume that it is not a problem.<br>
+　However, since this is only a fan-made item ,<br>
+  Please do not introduce them as if they are official works.<br>
 <br>
-上記の記載から判断できない状況について<br>
-版権元やその許諾を受けた公式の活動以外での問い合わせについては原則不許可の方針とします。<br>
-この原則は製作者が回答しない・できない場合でも適用されます。<br>
-逆に万が一権利者側(講談社、不二涼介氏)からの要望があった場合については、極力意に沿えるよう対応いたします。<br>
+Regarding situations that cannot be determined from the above description<br>
+As a general rule, we have a policy of not permitting inquiries outside of the official activities of the copyright holder or its authorized official.<br>
+This principle applies even if the creator does not or cannot respond.<br>
+On the other hand, if there is a request from the rights holders (Kodansha and Mr. Ryosuke Fujii), I will do our best to comply with the request.<br>
 <br>
 <br>
 2022/05/05 e1ght3
