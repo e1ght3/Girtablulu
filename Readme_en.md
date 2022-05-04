@@ -11,7 +11,7 @@ The copyright of the original design is owned by Ryosuke Fujii and Kodansha.<br>
 <br>
 Publisher: Kodansha<br>
 Title: Shangri-La Frontier<br>
-Author: Katarina(Original Story), Ryosuke Fujii (Author)
+Author: Katarina(Original Story), Ryosuke Fujii (Author)<br>
 Item name：Re-legacyWeapon：Bielak【Girtablulu】(Unofficial due to lack of English translation)<br>
 <br>
 By acquiring or loading any of the materials, regardless of the method, you are deemed to have agreed to the following precautions, prohibitions, etc.
