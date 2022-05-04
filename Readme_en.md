@@ -1,6 +1,6 @@
 # Re-legacyWeapon：e1ght3【Girtablulu】
 <br>
-<br>
+[日本語版はこちら](https://github.com/e1ght3/Girtablulu/blob/main/README.md)<br>
 <br>
 ▼共有フォルダURL▼<br>
 ＊開発中につきありません。<br>
