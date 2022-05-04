@@ -1,6 +1,7 @@
 # 甦機装:e1ght3【煌蠍の籠手】
 <br>
 <br>
+Click here for the English version
 <br>
 ▼共有フォルダURL▼<br>
 ＊開発中につきありません。<br>
