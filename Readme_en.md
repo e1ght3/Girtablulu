@@ -5,26 +5,27 @@
 ▼共有フォルダURL▼<br>
 ＊開発中につきありません。<br>
 <br>
-これは有志による非公式のファンメイドアイテムです。<br>
-以下の作品に登場するアイテムのデザインおよび機能を模倣して制作しています。<br>
-模倣元のデザインの版権は不二涼介氏及び講談社にあります。<br>
+This is an unofficial fan-made item by volunteers.<br>
+The design and function of the item is imitated from the following works.<br>
+The copyright of the original design is owned by Ryosuke Fujii and Kodansha.<br>
 <br>
-出版社：講談社<br>
-作品名：シャングリラ・フロンティア　～クソゲーハンター、神ゲーに挑まんとす～<br>
-作者：硬梨菜  (原作), 不二涼介 (著)<br>
-アイテム名：甦機装:ビィラック【煌蠍の籠手】<br>
+Publisher: Kodansha<br>
+Title: Shangri-La Frontier<br>
+Author: Katarina(Original Story), Ryosuke Fujii (Author)
+Item name：Re-legacyWeapon：Bielak【Girtablulu】(Unofficial due to lack of English translation)<br>
 <br>
-方法を問わず取得もしくはロードした時点で以下の注意事項・禁止事項等に同意したものとみなします。<br>
-概ね利益を伴わないファン活動の範疇であれば問題ないと考えてはいますが、トラブルを避けるために一通り目を通してください。講談社の方針を考慮して厳しめの内容にしています。<br>
+By acquiring or loading any of the materials, regardless of the method, you are deemed to have agreed to the following precautions, prohibitions, etc.
+Although we do not consider it to be a problem as long as it is within the scope of non-profitable fan activities, please read through the contents in order to avoid any problems. Please read through the contents to avoid problems.<br>
 <br>
 <br>
-*注意事項*<br>
-neos上で遊ぶ用途でのみお使いください。<br>
-このアイテムを使用・保管したことによる責任は一切負いかねます。<br>
-また、このアイテムをneosで遊ぶ以外の用途で使用したことによる罰則・責任等についても、全て使用者・違反者が負うものとします。<br>
-この文章は不定期に修正される場合があり、常に最新版の解釈が優先されます。英語と日本語の解釈に差異がある場合は日本語が優先されます。<br>
+*Notes*<br>
+Please use this item only for playing on NEOS.<br>
+We assume no responsibility for the use or storage of this item.<br>
+In addition, all penalties and responsibilities for using this item for purposes other than playing on neos shall be borne by the user/offender.<br>
+This text may be revised from time to time and the interpretation of the latest version will always take precedence. If there is any difference between the English and Japanese interpretations, the Japanese version shall take precedence.<br>
 <br>
-*禁止事項*<br>
+<br>
+*Prohibitions*<br>
 個人での版権管理が難しいことを踏まえて、製作者として以下の行為を禁止します。<br>
 ・３Dデータのエクスポート(用途・理由を問わず全て不可)<br>
 ・このアイテムをあらゆる媒体やサービスで販売・再配布する行為(neos内での再配布・販売も含む)<br>
