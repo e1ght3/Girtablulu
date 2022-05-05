@@ -3,7 +3,7 @@
 [日本語版はこちら](https://github.com/e1ght3/Girtablulu/blob/main/README.md)<br>
 <br>
 ▼共有フォルダURL▼<br>
-＊開発中につきありません。<br>
+neosrec:///U-e1ght3/R-10471380-e282-45d3-8094-f8732cc24d97<br>
 <br>
 # Controls (supported only in VR mode)<br>
 Launching crystal bullets: Double-click the primary button.<br>
