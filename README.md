@@ -4,7 +4,7 @@
  [Click here for the English version](https://github.com/e1ght3/Girtablulu/blob/main/Readme_en.md)
 <br>
 ▼共有フォルダURL▼<br>
-＊開発中につきありません。<br>
+neosrec:///U-e1ght3/R-10471380-e282-45d3-8094-f8732cc24d97<br>
 <br>
 # 操作方法(VRモードのみサポート)<br>
 晶弾発射：プライマリボタンをダブルクリック<br>
